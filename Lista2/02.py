@@ -1,5 +1,4 @@
-"""Modifique o programa anterior para solicitar a nota da recuperação se o aluno ficou abaixo de 6.
-Calcule a média final usando a primeira média e a nota da recuperação.
+"""Modifique o programa anterior para solicitar a nota da recuperação se o aluno ficou abaixo de 6. Calcule a média final usando a primeira média e a nota da recuperação. 
 O aluno será aprovado se a média final for 5 ou mais, caso contrário, será reprovado. Mostre a média final e a mensagem"""
 
 nota1 = float(input('Nota 1:'))
