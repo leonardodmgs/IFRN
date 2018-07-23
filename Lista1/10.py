@@ -13,4 +13,4 @@ Refrigerante = int(input('Quantidade de refrigerante consumida:'))
 Milkshake = int(input('Quantidade de milkshakes consumida:'))
 
 conta = (Hamburguer * 3) + (Cheeseburguer * 2.50) + (Fritas * 2.50) + (Refrigerante * 1.00) + (Milkshake * 3.00)
-print(f'O valor da sua conta é de R${conta:.2f}')
+print(f'O valor da sua conta é de R${conta:.2f}') 
