@@ -25,4 +25,4 @@ while x <= 4:
 if media_aritmetica >= 6:
     print(f'Aprovado\nMédia: {media_aritmetica:.2f}')
 else:
-    print(f'Reprovado\nMédia: {media_aritmetica:.2f}')
+    print(f'Reprovado\nMédia: {media_aritmetica:.2f}') 
