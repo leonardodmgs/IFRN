@@ -16,4 +16,4 @@ while resposta == 'sim':
     else:
         print(f'O número {numero} é ímpar!')
     resposta = input('Deseja consultar outro número? [sim/não]')  # se digitar 'não' o laço é encerrado
-    print('Ok! Até a próxima.')
+    print('Ok! Até a próxima.') 
