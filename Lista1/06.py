@@ -5,7 +5,7 @@ candidato, além de efetuar também a leitura da quantidade de votos nulos e vot
 programa deve apresentar o número total de eleitores, considerando votos válidos, nulos e em branco; o
 percentual correspondente de votos válidos em relação à quantidade de eleitores; o percentual correspondente
 de votos válidos de cada candidato em relação à quantidade de eleitores, além do percentual de votos brancos
-e votos nulos;"""
+e votos nulos;""" 
 
 A = int(input('Votos de A:'))
 B = int(input('Votos de B:'))
