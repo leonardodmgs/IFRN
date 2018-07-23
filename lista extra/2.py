@@ -1,4 +1,4 @@
-# Questão 2
+# Questão 2 
 '''Crie um programa que solicite a digitação de dois números e mostre o resultado das 4 operações'''
 n1 = int(input('Digite o primeiro número:'))
 n2 = int(input('Digite o segundo número:'))
