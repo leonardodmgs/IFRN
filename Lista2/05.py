@@ -1,4 +1,3 @@
-
 """Escreva um programa que informa sobre a aprovação de um empréstimo habitacional.
 O usuário informa o valor da casa, a renda e a quantidade de anos a pagar.
 O valor da prestação não pode ser superior a 30% do salário. Informe o valor da prestação e se o empréstimo será aprovado ou não.
