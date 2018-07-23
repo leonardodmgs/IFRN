@@ -1,4 +1,4 @@
-"""Digite as notas de um aluno para os 4 bimestres do ano e calcule a sua média aritmética"""
+"""Digite as notas de um aluno para os 4 bimestres do ano e calcule a sua média aritmética""" 
 
 nota1 = float(input('Nota 1:'))
 nota2 = float(input('Nota 2:'))
