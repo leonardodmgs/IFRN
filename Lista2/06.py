@@ -1,7 +1,7 @@
 """Escreva um programa que calcule o preço a pagar pelo fornecimento de energia elétrica.
 Pergunte a quantidade de kWh consumidas e
 o tipo de instalação: R para residências, I para indústrias e C para comércios.
-Calcule o preço a pagar de acordo com a tabela a seguir.
+Calcule o preço a pagar de acordo com a tabela a seguir. 
 
 Tipo 			Faixa (kWh) 	Preço
 Residêncial
