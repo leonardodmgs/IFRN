@@ -1,5 +1,5 @@
 '''6) Escreva um programa que pergunta o valor de depósito inicial para uma poupança, e a taxa de rendimento mensal
- Apresente o saldo dos próximos 24 meses, considerando o rendimento sobre o saldo atual de cada mês.'''
+ Apresente o saldo dos próximos 24 meses, considerando o rendimento sobre o saldo atual de cada mês.''' 
 
 deposito_inicial = float(input('Depósito inicial:'))
 taxa_rendimento = float(input('Taxa de rendimento %:'))
