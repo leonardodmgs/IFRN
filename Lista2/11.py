@@ -1,4 +1,4 @@
-""" Faça um programa que leia a idade de um atleta e informa a qual categoria ele pertence:
+"""Faça um programa que leia a idade de um atleta e informa a qual categoria ele pertence:
 Até 8 anos - pré-mirim
 Até 11 anos - mirim
 Até 14 anos - infantil
