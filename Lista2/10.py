@@ -1,5 +1,4 @@
-"""Escreva um programa que o usuário informa o valor do salário e o programa calcula o novo salário
-de acordo com as seguintes condições:
+"""Escreva um programa que o usuário informa o valor do salário e o programa calcula o novo salário de acordo com as seguintes condições:
 Até R$ 1000,00 - 15%
 Até R$ 2000,00 - 10%
 Até R$ 3000,00 - 5%
