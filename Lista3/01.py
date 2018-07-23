@@ -7,5 +7,5 @@ print(f'Imprimindo a tabuada do número {n}:')
 while x <= 10:
 
     print(f'{n} x {x} = {n*x}')
-    x = x + 1
+    x = x + 1 
     
