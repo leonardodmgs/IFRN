@@ -4,7 +4,7 @@ faz 12 Km por litro. Para obter o cálculo, o usuário deve fornecer o tempo gas
 DISTANCIA ← TEMPO * VELOCIDADE. Possuindo o valor da distância, basta calcular a quantidade de litros de
 combustível utilizada na viagem com a fórmula LITROS_USADOS ← DISTANCIA / 12. Ao final, o programa deve
 apresentar os valores da velocidade média (VELOCIDADE), tempo gasto na viagem (TEMPO), a distancia
-percorrida (DISTANCIA) e a quantidade de litros (LITROS_USADOS) utilizada na viagem."""
+percorrida (DISTANCIA) e a quantidade de litros (LITROS_USADOS) utilizada na viagem.""" 
 
 tempo = int(input('Tempo gasto na viagem:'))
 velocidade = float(input('Velocidade média:'))
