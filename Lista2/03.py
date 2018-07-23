@@ -1,5 +1,4 @@
-'''3) Efetuar a leitura de três valores (variáveis A, B e C) e
-apresentá-los dispostos em ordem crescente. '''
+'''3) Efetuar a leitura de três valores (variáveis A, B e C) e apresentá-los dispostos em ordem crescente. '''
 
 a = int(input("Valor de A: "))
 b = int(input("Valor de B: "))
